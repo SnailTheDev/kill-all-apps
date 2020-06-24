@@ -1,0 +1,15 @@
+Package: com.haoict.killallapps
+Name: Kill All Apps
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.3.0), firmware (>= 12)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Swipe down in app switcher to kill all background apps
+ Swipe down in app switcher to kill all background apps
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Maintainer: Hao Nguyen
+Author: Hao Nguyen
+Section: Tweaks

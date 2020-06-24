@@ -1,0 +1,24 @@
+{
+  "APPLY" = "Áp dụng";
+  "DO_YOU_REALLY_WANT_TO_RESPRING" = "Bạn có muốn respring?";
+  "CONFIRM" = "Xác nhận";
+  "CANCEL" = "Hủy";
+  "DEFAULT" = "Mặc định";
+  "MAIN_PREFERENCES" = "Tùy chỉnh chính";
+  "ENABLE" = "Bật";
+  "KILL_ALL_BY_SWIPE_DOWN_IN_APP_SWITCHER" = "Tắt tất cả bằng cách vuốt xuống ứng dụng";
+  "HAPTIC_FEEDBACK" = "Rung phản hồi";
+  "HAPTIC_FEEDBACK_AFTER_KILL" = "Rung phản hồi sau khi đóng ứng dụng";
+  "UI_EFFECT" = "Hiệu ứng UI";
+  "SWIPE_DOWN_OFFSET" = "Độ sâu vuốt xuống";
+  "OTHER_PREFERENCES" = "Tùy chỉnh phụ";
+  "RESET_SETTINGS" = "Đặt lại tùy chỉnh";
+  "SUPPORT_ME" = "Hỗ trợ tôi";
+  "DONATION" = "Ủng hộ 💰";
+  "BUY_ME_A_COFFEE" = "Mua giúp tôi một ly cà phê";
+  "FEATURE_REQUEST" = "Yêu cầu thêm tính năng ✨";
+  "SEND_ME_AN_EMAIL_WITH_YOUR_REQUEST" = "Gửi email yêu cầu";
+  "SOURCE_CODE" = "Mã nguồn 🤖";
+  "FOUND_A_BUG" = "Tìm thấy lỗi 🐛";
+  "LEAVE_A_BUG_REPORT_ON_GITHUB" = "Báo lỗi trên Github";
+}
